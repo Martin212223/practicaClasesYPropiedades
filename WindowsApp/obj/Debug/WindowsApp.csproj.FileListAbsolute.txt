@@ -1,0 +1,11 @@
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\Alternativa\Desktop\Bootcamp C# .NET Educación IT Accenture\3 - Programación Web .NET Core\Ejercicios clase 1\Caso2\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.pdb
